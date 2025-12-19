@@ -14,5 +14,10 @@
   {
     "url": "https://github.com/frappe/lms",
     "branch": "v2.43.0"
+  },
+  {
+    "url": "https://github.com/shridarpatil/frappe_whatsapp",
+    "branch": "v1.0.11"
   }
+  
 ]
