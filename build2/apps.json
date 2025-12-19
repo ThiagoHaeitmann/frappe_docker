@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://github.com/frappe/helpdesk",
+    "branch": "v1.17.4"
+  },
+  {
+    "url": "https://github.com/frappe/insights",
+    "branch": "v3.2.19"
+  },
+  {
+    "url": "https://github.com/frappe/wiki",
+    "branch": "v2.0.1"
+  },
+  {
+    "url": "https://github.com/frappe/builder",
+    "branch": "v1.21.2"
+  }
+
+]
